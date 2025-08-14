@@ -1,0 +1,139 @@
+
+        *{
+            padding: 0;
+            margin: 0;
+        }
+
+        body{
+            background-color:#804c22   ;
+            align-items: center;
+            text-align: center;
+
+        }
+        
+      
+        
+        .div1{
+            margin: -4px;
+            display: inline-block;
+            width: 15.4%;
+            height:100%;
+            background-color:#4f3011;
+            text-align: center;
+            align-items: center;
+            cursor: pointer; 
+            transition: background-color 0.3s ease;
+            color: black;
+            font-size: 14.5px;
+            font-family:'Poppins', sans-serif;
+            font-weight: 600;
+            
+            
+        }
+        
+        .div2{
+            position: relative;
+            display:inline-block;
+            width: 100%;
+            height: 60px;
+            background-color:#4f3011;
+            text-align: center;
+            
+        }
+        
+        .div3{
+            display:inline-block;
+            width: 100%;
+            height: 20%;
+            background-color:#d9c9be;
+            text-align:justify;
+            word-wrap: break-word;
+            border: 2px solid black;
+            
+        }
+        
+        .div4{
+            display:inline-block;
+            width: 75%;
+            height: 100%;
+            background-color:#d9c9be;
+            text-align: center;
+            border-radius: 10px;
+            margin: 5px;
+        }
+        
+        .div1:hover {
+        background-color: #804c22;
+        transform: scale(1.05);
+        }
+        
+        .div6 p{
+        white-space: nowrap;
+        word-wrap: break-word;
+        white-space: pre-line;
+        line-height: 1.6;
+        font-family: 'Arial', sans-serif;
+        font-size: 15px;
+        font-weight: bold;
+        text-align: justify;
+
+        
+
+        }
+          
+
+        .div5 {
+            position: relative;
+            display:inline-block;
+            width: 100%;
+            height: 50px;
+            background-color: #4f3011;
+            text-align: center;
+            
+        }
+        
+        .div6{
+            display:inline-block;
+            width: 85%;
+            height: 95%;
+            background-color:#d9c9be;
+            text-align: justify;
+            border-radius: 10px;
+            margin: 30px;
+
+        }
+        
+        .div2, .div5 {
+        text-align: center;
+        line-height: 60px;
+        }
+
+        .div3 img {
+            display:inline-block;
+            width: 45%;
+            height: auto;
+            margin-right: 7px;
+            vertical-align:middle;            
+            border: 2px solid black;
+
+
+        }
+        
+        .div3 p{
+            display: inline-block;
+            font-size: 15px;
+            font-weight: bold;
+            margin:auto;
+            vertical-align:middle;
+            white-space: pre-line;
+            line-height: 1.6;
+            font-family: 'Arial', sans-serif;             
+            border:2px solid black;
+
+        }
+
+
+
+
+
+
